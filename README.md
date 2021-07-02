@@ -1,4 +1,4 @@
-# eduhub
+# Eduhub UI Prototype
 Interface mocked up designed using Adobe XD.
 
 
